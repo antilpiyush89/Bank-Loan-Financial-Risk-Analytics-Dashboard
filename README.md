@@ -61,12 +61,12 @@ Visualize critical loan-related metrics and trends using various chart types:
    - Metrics: 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received'
    - Objective: View how home ownership impacts loan applications and disbursements.
 
-![Screenshot 2024-06-18 010118](https://github.com/Sankari0299/Bank-Loan-Project-----Tableau/assets/122591357/020cf9ed-5d5f-4ede-a4b2-9bd5e5643a6b)
+![Loan Dashboard - Page 2](Dashboard_images/Bank%20Loan%20Dashboard_page-0002.jpg)
 
 ### Dashboard 3: Details
 The Details Dashboard provides a consolidated view of all essential loan data, offering a holistic snapshot of key loan-related metrics and data points for efficient access to critical information.
 
-![Screenshot 2024-06-18 010132](https://github.com/Sankari0299/Bank-Loan-Project-----Tableau/assets/122591357/6ed88fc6-5acf-4a51-84ae-23dacdea92dd)
+![Loan Dashboard - Page 3](Dashboard_images/Bank%20Loan%20Dashboard_page-0003.jpg)
 
 ## Dependencies
 - Microsoft SQL Server: Queries are written in Microsoft SQL Server.
