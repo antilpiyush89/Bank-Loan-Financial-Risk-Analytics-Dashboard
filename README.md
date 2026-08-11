@@ -70,24 +70,24 @@ The Details Dashboard provides a consolidated view of all essential loan data, o
 
 ## Dependencies
 - Microsoft SQL Server: Queries are written in Microsoft SQL Server.
-- Tableau: Dashboards are built using Tableau for data visualization.
+- Power BI: Dashboards are built using Power BI for data visualization.
 
 ## Getting Started
 
 ### Prerequisites
 - Microsoft SQL Server
-- Tableau
+- Power BI
 
 ## Installation and Setup
 SQL Server Setup:
 - Ensure you have Microsoft SQL Server installed and running.
 - Execute the SQL scripts provided in the /sql directory to create and populate the database.
 
-## Tableau Setup:
-- Open the Tableau workbooks provided in the /tableau directory.
+## Power BI Setup:
+- Open the Power BI workbooks provided in the /Power BI directory.
 - Connect the workbooks to your SQL Server instance.
 
 ## Run the Project:
-- Follow the instructions in the README files within the /sql and /tableau directories for detailed setup and usage guidelines.
+- Follow the instructions in the README files within the /sql and /Power BI directories for detailed setup and usage guidelines.
 ---
 Feel free to reach out if you have any questions or need further assistance. Happy analyzing!
