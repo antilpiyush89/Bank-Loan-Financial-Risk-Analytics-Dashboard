@@ -32,7 +32,7 @@ Distinguish between 'Good Loans' and 'Bad Loans' based on specific loan status c
 ### Dashboard 1: Loan Status Grid View
 Gain a comprehensive overview of lending operations and monitor the performance of loans categorized by 'Loan Status', including metrics such as 'Total Loan Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'MTD Funded Amount,' 'MTD Amount Received,' 'Average Interest Rate,' and 'Average Debt-to-Income Ratio (DTI).'
 
-![Screenshot 2024-06-18 010104](https://github.com/antilpiyush89/Bank-Loan-Financial-Risk-Analytics-Dashboard/blob/main/Dashboard_images/Bank%20Loan%20Dashboard_page-0001.jpgDashboard_images/Bank Loan Dashboard_page-0001.jpg)
+![Loan Status Dashboard](Dashboard_images/Bank%20Loan%20Dashboard_page-0001.jpg)
 
 ### Dashboard 2: Overview
 Visualize critical loan-related metrics and trends using various chart types:
